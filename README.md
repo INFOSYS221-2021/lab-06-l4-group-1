@@ -16,5 +16,6 @@
 # Task 2
 1. Array
 2. In the code "for (int i = 0; i < bedArr.length; i++)" it iterates through the array until it reaches the end of the queue.
-3. You use the dot nation lenght(). If my array was called bedArr then to find the length of it I would use bedArr.length()
-4. 
+3. You use the dot nation length. If my array was called bedArr then to find the length of it I would use bedArr.length
+4. To add an item to an array you can just make the array enter a value
+5. This is not in the code
