@@ -14,4 +14,7 @@
 6. To do this when creating the queue you can use .LifoQueue() to make it a last in first out queue.
 
 # Task 2
-1. Queue
+1. Array
+2. In the code "for (int i = 0; i < bedArr.length; i++)" it iterates through the array until it reaches the end of the queue.
+3. You use the dot nation lenght(). If my array was called bedArr then to find the length of it I would use bedArr.length()
+4. 
